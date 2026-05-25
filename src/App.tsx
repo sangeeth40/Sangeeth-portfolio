@@ -6,6 +6,7 @@ import { AboutSection }          from '@/sections/AboutSection'
 import { ProjectsSection }       from '@/sections/ProjectsSection'
 import { SkillsSection }         from '@/sections/SkillsSection'
 import { ExperienceSection }     from '@/sections/ExperienceSection'
+import { EducationSection }      from '@/sections/EducationSection'
 import { CertificationsSection } from '@/sections/CertificationsSection'
 import { ContactSection }        from '@/sections/ContactSection'
 
@@ -20,6 +21,7 @@ export default function App() {
         <ProjectsSection />
         <SkillsSection />
         <ExperienceSection />
+        <EducationSection />
         <CertificationsSection />
         <ContactSection />
       </main>

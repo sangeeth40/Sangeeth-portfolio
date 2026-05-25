@@ -86,9 +86,8 @@ export function AboutSection() {
                 settings.
               </p>
               <p>
-                Currently interning at Stirrup Communications, focused on
-                building practical, high-impact AI products that solve real
-                problems.
+                Actively seeking new opportunities to build practical,
+                high-impact AI products that solve real problems.
               </p>
             </div>
           </div>

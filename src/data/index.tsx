@@ -2,6 +2,7 @@ import { Code2, Brain, Layers, Cloud, Database, Shield } from "lucide-react";
 import type {
   SkillCategory,
   Experience,
+  Education,
   Certification,
   Particle,
 } from "@/types";
@@ -103,6 +104,25 @@ export const EXPERIENCES: Experience[] = [
       "Achieved 98% accuracy while maintaining model robustness against attacks",
       "Created ownership verification method using genetic algorithms",
     ],
+  },
+];
+
+// ─── Education ─────────────────────────────────────────────────────────────────
+
+export const EDUCATION: Education[] = [
+  {
+    institution: "SCMS School of Engineering & Technology",
+    university: "KTU University",
+    degree: "Master of Computer Applications",
+    period: "2023 – 2025",
+    location: "Ernakulam, Kerala",
+  },
+  {
+    institution: "Amrita Vishwa Vidyapeetham",
+    university: "Amrita University",
+    degree: "Bachelor of Computer Applications",
+    period: "2020 – 2023",
+    location: "Kollam, Kerala",
   },
 ];
 

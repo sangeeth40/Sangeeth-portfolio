@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import { Download } from 'lucide-react'
 
-const NAV_LINKS = ['About', 'Projects', 'Skills', 'Experience', 'Contact'] as const
+const NAV_LINKS = ['About', 'Projects', 'Skills', 'Experience', 'Education', 'Contact'] as const
 
 /**
  * Fixed top navigation bar. Becomes opaque with a backdrop blur after the

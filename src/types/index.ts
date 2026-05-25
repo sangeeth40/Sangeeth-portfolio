@@ -21,6 +21,14 @@ export interface Certification {
   year: string
 }
 
+export interface Education {
+  institution: string
+  university:  string
+  degree:      string
+  period:      string
+  location:    string
+}
+
 export interface Particle {
   id: number
   left: string
