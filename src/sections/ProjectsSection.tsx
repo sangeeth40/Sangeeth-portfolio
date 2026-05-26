@@ -236,9 +236,6 @@ function DNNProject() {
               <span className="px-3 py-1 text-xs font-semibold bg-cyan-500/20    text-cyan-300    rounded-full border border-cyan-500/20">
                 Research Project
               </span>
-              <span className="px-3 py-1 text-xs font-semibold bg-emerald-500/20 text-emerald-300 rounded-full border border-emerald-500/20">
-                Published
-              </span>
             </div>
 
             <h3 className="text-3xl font-bold text-white mb-4">
